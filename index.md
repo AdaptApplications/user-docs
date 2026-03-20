@@ -4,33 +4,39 @@ layout: home
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Adapt Apps User Documentation
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Welcome to the official documentation for the **Adapt Apps User Console**. This guide is designed to help you navigate and utilise the various features of the console effectively.
 
-More specifically, the created site:
+## Getting Started
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+If you're new to the Adapt Apps User Console, we recommend starting with the [User Console overview](docs/user_console/index.md).
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Key Features
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### [Dashboard](docs/user_console/dashboard/index.md)
+Get a high-level view of your activities and system status. The dashboard provides real-time insights and quick access to essential tools.
 
-To get started with creating a site, simply:
+### [Item Management](docs/user_console/item/index.md)
+Learn how to create, view, and manage items within the system. This section covers:
+- [Creating Items](docs/user_console/item/create_item/index.md) (Normal, Excel Import, Public, and System)
+- [Viewing Items](docs/user_console/item/viewing_items/index.md)
+- [Item Actions](docs/user_console/item/item_actions/index.md)
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### [Notifications](docs/user_console/notifications/index.md)
+Stay informed with system alerts and updates.
+- [Creating Alerts](docs/user_console/notifications/create_alert/create_alert.md)
+- [Viewing Notifications](docs/user_console/notifications/viewing_notifications/viewing_notifications.md)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+### [Reports](docs/user_console/reports/index.md)
+Generate and analyse reports to gain deeper insights into your data and operations.
 
-----
+### [User Management](docs/user_console/user_management/index.md)
+Manage users and teams within your organisation.
+- [Creating Users](docs/user_console/user_management/create_user/create_user.md)
+- [Deleting Users](docs/user_console/user_management/delete_user/user_delete.md)
+- [Managing Teams](docs/user_console/user_management/teams/manage_team.md)
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+---
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+Need more help? Contact our support team or browse the full documentation using the navigation menu on the left.
