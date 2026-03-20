@@ -3,7 +3,8 @@ description: Documentation for the Adapt Apps User Console.
 theme: just-the-docs
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: "https://adaptapplications.github.io"
+baseurl: "/user-docs"
 
 defaults:
   -
