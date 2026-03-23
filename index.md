@@ -10,32 +10,32 @@ Welcome to the official documentation for the **Adapt Apps User Console**. This 
 
 ## Getting Started
 
-If you're new to the Adapt Apps User Console, we recommend starting with the [User Console overview](./docs/user_console/index).
+If you're new to the Adapt Apps User Console, we recommend starting with the [User Console overview](./docs/dashboard/index).
 
 ## Key Features
 
-### [Dashboard](./docs/user_console/dashboard/index)
+### [Dashboard](./docs/dashboard/index)
 Get a high-level view of your activities and system status. The dashboard provides real-time insights and quick access to essential tools.
 
-### [Item Management](./docs/user_console/item/index)
+### [Item Management](./docs/item/index)
 Learn how to create, view, and manage items within the system. This section covers:
-- [Creating Items](./docs/user_console/item/create_item/index) (Normal, Excel Import, Public, and System)
-- [Viewing Items](./docs/user_console/item/viewing_items/index)
-- [Item Actions](./docs/user_console/item/item_actions/index)
+- [Creating Items](./docs/item/create_item/index) (Normal, Excel Import, Public, and System)
+- [Viewing Items](./docs/item/viewing_items/index)
+- [Item Actions](./docs/item/item_actions/index)
 
-### [Notifications](./docs/user_console/notifications/index)
+### [Notifications](./docs/notifications/index)
 Stay informed with system alerts and updates.
-- [Creating Alerts](./docs/user_console/notifications/create_alert/create_alert)
-- [Viewing Notifications](./docs/user_console/notifications/viewing_notifications/viewing_notifications)
+- [Creating Alerts](./docs/notifications/create_alert/create_alert)
+- [Viewing Notifications](./docs/notifications/viewing_notifications/viewing_notifications)
 
-### [Reports](./docs/user_console/reports/index)
+### [Reports](./docs/reports/index)
 Generate and analyse reports to gain deeper insights into your data and operations.
 
-### [User Management](./docs/user_console/user_management/index)
+### [User Management](./docs/user_management/index)
 Manage users and teams within your organisation.
-- [Creating Users](./docs/user_console/user_management/create_user/create_user)
-- [Deleting Users](./docs/user_console/user_management/delete_user/user_delete)
-- [Managing Teams](./docs/user_console/user_management/teams/manage_team)
+- [Creating Users](./docs/user_management/create_user/create_user)
+- [Deleting Users](./docs/user_management/delete_user/user_delete)
+- [Managing Teams](./docs/user_management/teams/manage_team)
 
 ---
 

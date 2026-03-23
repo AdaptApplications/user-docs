@@ -1,6 +1,5 @@
 ---
 title: Manage Users
-parent: User Console
 nav_order: 2
 ---
 

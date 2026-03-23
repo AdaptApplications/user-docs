@@ -1,6 +1,5 @@
 ---
 title: Dashboard
-parent: User Console
 nav_order: 5
 ---
 
