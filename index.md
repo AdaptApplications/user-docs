@@ -39,4 +39,4 @@ Manage users and teams within your organisation.
 
 ---
 
-Need more help? Contact our support team or browse the full documentation using the navigation menu on the left.
+Need more help? [Contact our support team](./docs/demo/index) or browse the full documentation using the navigation menu on the left.
