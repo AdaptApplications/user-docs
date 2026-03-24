@@ -12,7 +12,7 @@ nav_order: 1
 
 2.  **Select import from Excel from dropdown:**
     Choose the specific type of item you wish to create from the available options.
-    ![](../create_normal/icon_dropdown.png)
+    ![](../icon_dropdown.png)
 
 3.  **Download template or use an existing template:**
     The *Include existing data in template* toggle with export all existing data from the form into the template.

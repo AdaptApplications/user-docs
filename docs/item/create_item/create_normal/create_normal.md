@@ -8,7 +8,7 @@ nav_order: 4
 
 1.  **Navigate to the Create Page:**
     Click on the "Create" button located in the top left-hand corner of the interface.
-    ![](./create_button.png)
+    ![](../create_button.png)
 
 2.  **Choose Item:**
     Choose the specific type of item you wish to create from the available options.
