@@ -33,9 +33,8 @@ Generate and analyse reports to gain deeper insights into your data and operatio
 
 ### [User Management](./docs/user_management/index)
 Manage users and teams within your organisation.
-- [Creating Users](./docs/user_management/create_user/create_user)
-- [Deleting Users](./docs/user_management/delete_user/user_delete)
-- [Managing Teams](./docs/user_management/teams/manage_team)
+- [Users](./docs/user_management/users/index)
+- [Teams](./docs/user_management/teams/index)
 
 ---
 

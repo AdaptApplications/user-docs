@@ -1,6 +1,7 @@
 ---
 title: Delete a user
-parent: Manage Users
+parent: Users
+grand_parent: Manage Users
 nav_order: 2
 ---
 
@@ -8,11 +9,11 @@ nav_order: 2
 
 1.  **Navigate to the user page:**
     Choose user management from the left hand nav.
-    ![](../user_management.png)
+    ![](../../../../assets/images/user_management/user_management.png)
 
 2.  **Tap on the delete user button:**
     Find the user you want to delete and click the delete button next to their name.
-    ![](./delete_image_with_button.png)
+    ![](../../../../assets/images/user_management/delete_image_with_button.png)
 
 3.  **Confirm Deletion:**
     A confirmation pop-up will appear to prevent accidental deletions. Click "Delete" to permanently remove the user from the system.

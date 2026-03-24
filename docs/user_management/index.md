@@ -1,6 +1,7 @@
 ---
 title: Manage Users
-nav_order: 2
+nav_order: 5
+has_children: true
 ---
 
 # Managing Users in adapt apps
@@ -8,8 +9,3 @@ nav_order: 2
 ## Getting Started
 
 You can create, modify and update users in adapt adapts if you have admin persissions.
-
-Use the following to understand more.
-
-- [Create a user](./create_user/create_user.md)
-- [Delete a user](./delete_user/user_delete.md)

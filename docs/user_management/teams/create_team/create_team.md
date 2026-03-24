@@ -1,7 +1,7 @@
 ---
 title: Creating a Team
 parent: Teams
-grand_parent: Guides
+grand_parent: Manage Users
 nav_order: 1
 ---
 

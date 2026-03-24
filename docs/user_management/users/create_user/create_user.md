@@ -1,6 +1,7 @@
 ---
 title: Create a user
-parent: Manage Users
+parent: Users
+grand_parent: Manage Users
 nav_order: 1
 ---
 
@@ -8,15 +9,15 @@ nav_order: 1
 
 1.  **Navigate to the user page:**
     Choose user management from the left hand nav.
-    ![](../user_management.png)
+    ![](../../../../assets/images/user_management/user_management.png)
 
 2.  **Tap on the add new user:**
-    ![](new_user_link.png)
+    ![](../../../../assets/images/user_management/new_user_link.png)
     
 
 3.  **Send or Copy Onboarding Link:**
     A pop-up will appear, allowing you to send an email invitation to the new user's email address. Alternatively, you can click "Copy Link" to retrieve the onboarding link and share it manually.
-    ![](copy_user_link.png)
+    ![](../../../../assets/images/user_management/copy_user_link.png)
 
     Selecting *Send* will send an onboarding link to the new user, where they can go through the steps to create their Adapt Apps account.
 
